@@ -10,4 +10,4 @@ The city of Nashville provides a dataset of known burials in city cemeteries fro
 
 #### Created new sheets for each pivot table or analysis work done to create a visualization. Final product is a marketing suggestion for the Nashville City Cemetery to increase attendance, awareness, and interest. 
 
-![Final_Product](assests/Nash_Cemetery.PNG)
+![Final_Product](assets/Nash_Cemetery.PNG)
